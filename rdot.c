@@ -1,3 +1,4 @@
+//random dot generator
 #include <conio.h>
 #include <graphics.h>
 #include <dos.h>
